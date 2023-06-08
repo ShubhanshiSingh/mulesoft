@@ -5,7 +5,7 @@ Mulesoft Virtual Internship Programme
 Workspace Repository for all Project deliverables:<br>
 Includes : Required Files, Project Report Updates, Screenshots of the task completed.
 <br>
-<h5>Part 1: Course Regestration</5><br>
+<h5>Part 1: Course Regestration</h5><br>
   Module 1: Self-study enrollment
 
 <h5>Part 2: Anypoint Platform</h5><br>

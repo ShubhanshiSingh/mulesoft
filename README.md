@@ -2,11 +2,13 @@
 Mulesoft Virtual Internship Programme
 
 Course title: Anypoint Platform Development: Fundamentals
-<\n> Workspace Repository for all Project deliverables:
-<\n> Includes : Required Files, Project Report Updates, Screenshots of the task completed.
+Workspace Repository for all Project deliverables:
+Includes : Required Files, Project Report Updates, Screenshots of the task completed.
+
 
 Part 1: Course Regestration
   Module 1: Self-study enrollment
+
 Part 2: Anypoint Platform
 Milestone 1: Introducing application network and API-led Connectivity
   Module 1: Introducing the New IT operating model :
